@@ -121,7 +121,7 @@ class ViewController: UIViewController {
         comChoice = Rps(rawValue: Int.random(in: 0...2))!
     }
     
-    
+    var aaa = 0
     
     
     
